@@ -1,0 +1,9 @@
+Install node.js
+Install github
+Set github windows path
+http://stackoverflow.com/questions/20666989/bower-enogit-git-is-not-installed-or-not-in-the-path
+
+npm install angular-animate
+npm install body-parser --save
+npm install jasmine-core --save-dev
+karma init karma.conf.js
